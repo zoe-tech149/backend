@@ -27,3 +27,10 @@ c = False
 result = (a or b) and not c
 
 print(f"result = {result}")
+
+b1 = True
+b2 = True
+b3 = False
+
+b4 = b1 and b2 and (not b3)
+print(f"b4 = {b4}")
