@@ -1,22 +1,22 @@
-a = 5.2
-b = 2.6
+# a = 5.2
+# b = 2.6
 
-c = a / b
-print(c) # 2.0 - float 
+# c = a / b
+# print(c) 
 
-x = 12.5
-y = 3.5 
+# x = 12.5
+# y = 3.5 
 
-z = x * y
-print(z) # 43.75 - float
+# z = x * y
+# print(z) 
 
-d = 9 % 2
-e = 2 % 3
-f = 11 % 10
+# d = 9 % 2
+# e = 2 % 3
+# f = 11 % 10
 
-print(f"d = {d}") # 1
-print(f"e = {e}") # 2
-print(f"f = {f}") # 1
+# print(f"d = {d}") 
+# print(f"e = {e}") 
+# print(f"f = {f}") 
 
 # Arithmetic shortcuts
 
@@ -27,3 +27,5 @@ count += 4
 count *= 2
 
 count -= 1
+
+print(f"count = {count}")
