@@ -40,5 +40,13 @@ score *= 3
 
 print(f"score = {score}")
 
+a = 6
+
+b = 4
+
+c = b * a
+
+print(f'c = {c}')
+
 
 
