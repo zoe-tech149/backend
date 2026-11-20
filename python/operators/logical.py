@@ -19,3 +19,11 @@ b2 = 3
 b3 = (b1 * b2) > (b1 + b2)
 
 print (f"b3 = {b3}")
+
+a = True
+b = False
+c = False
+
+result = (a or b) and not c
+
+print(f"result = {result}")
