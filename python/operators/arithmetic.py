@@ -21,3 +21,5 @@ print(f"f = {f}") # 1
 # Arithmetic shortcuts
 
 count = 0
+
+count += 4
