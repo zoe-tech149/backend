@@ -29,3 +29,16 @@ count *= 2
 count -= 1
 
 print(f"count = {count}")
+
+score = 100
+
+score /= 2
+
+score += 10
+
+score *= 3
+
+print(f"score = {score}")
+
+
+
