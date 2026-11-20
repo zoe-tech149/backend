@@ -17,3 +17,7 @@ f = 11 % 10
 print(f"d = {d}") # 1
 print(f"e = {e}") # 2
 print(f"f = {f}") # 1
+
+# Arithmetic shortcuts
+
+count = 0
