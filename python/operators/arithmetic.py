@@ -23,3 +23,5 @@ print(f"f = {f}") # 1
 count = 0
 
 count += 4
+
+count *= 2
