@@ -1,9 +1,13 @@
-# if statement
+# if-else statement
 
-age = 20
-status = "Child"
+age = 15
+status = "None"
 
-if age > 18:
+if age >= 18:
   status = "Adult"
-  print(status) # Adult
+else:
+  status = "Young"
+
+print(status) # Young
+
   
