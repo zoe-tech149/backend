@@ -1,4 +1,12 @@
-age = 20
-with_parent = False
+age = 15
+with_parent = True
 message = ""
+
+if age >= 18:
+  message = " You can watch any movie."
+else:
+  if with_parent:
+    message = "You can watch PG-13 movies"
+  else: 
+    message ="You can only watch G-rated movies"
 
