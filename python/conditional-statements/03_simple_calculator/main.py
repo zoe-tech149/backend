@@ -13,3 +13,4 @@ if op == "/":
 if op == "*":
   result = n1 * n2
 
+print(f"result = {result}")
