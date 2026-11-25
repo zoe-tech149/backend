@@ -14,3 +14,4 @@ if level >= 11:
 if level <= 0:
   level_message = "Invalid level"
 
+print(level_message)
