@@ -10,3 +10,4 @@ else:
   else: 
     message ="You can only watch G-rated movies"
 
+print(message)
