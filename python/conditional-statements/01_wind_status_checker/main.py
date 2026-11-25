@@ -9,3 +9,5 @@ elif 32 <= wind <= 63:
   status = "Gale"
 else :
   status = "Storm"
+
+print(f"status = {status}")
