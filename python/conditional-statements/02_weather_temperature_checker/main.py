@@ -10,3 +10,6 @@ elif 16 <= temperature <=25:
 else :
   weather = "Hot"
 
+print(f"weather = {weather}")
+
+
