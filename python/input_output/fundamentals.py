@@ -1,7 +1,4 @@
-# Input()
+# Cast
 
-name = input('What is your name? ') 
-quest = input('What is your quest? ') 
-
-print(name) 
-print(quest)
+number1 = input()
+number2 = input()
