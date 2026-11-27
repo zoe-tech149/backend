@@ -1,1 +1,3 @@
-print("I love Sunflower!")
+# Output with variables
+
+name = "Zoë"
