@@ -1,4 +1,5 @@
 # Cast
 
-number1 = input()
-number2 = input()
+number1 = float(input())
+number2 = float(input())
+
