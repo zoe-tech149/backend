@@ -1,5 +1,4 @@
-# Output with variables
+# Input()
 
-name = "Zoë"
+name = input("What is your name?")
 
-print(f"My name is: {name}")
