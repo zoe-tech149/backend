@@ -1,5 +1,7 @@
 # Input()
 
-name = input("What is your name?")
+name = input('What is your name? ') 
+quest = input('What is your quest? ') 
 
-print(f"Name: {name}")
+print(name) 
+print(quest)
