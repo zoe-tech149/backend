@@ -1,3 +1,3 @@
 name = input("What's your name?")
-age = int(input("How old are you?"))
+age = int(input("How old are you?")) + 10
 
